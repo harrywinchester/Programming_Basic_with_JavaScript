@@ -41,17 +41,17 @@
 // console.log(Boolean(myVar3));
 
 // undefined
-let x;
-console.log(Boolean(x));
+// let x;
+// console.log(Boolean(x));
 
 // let x1 = undefined;
 // console.log(x1);
 
 // null
-let y=null;
-console.log(Boolean(y));
+// let y=null;
+// console.log(Boolean(y));
 
 // Not A Number (NaN)
-let num1;
-let num2 = 1;
-console.log(Boolean(num1+num2));
+// let num1;
+// let num2 = 1;
+// console.log(Boolean(num1+num2));
