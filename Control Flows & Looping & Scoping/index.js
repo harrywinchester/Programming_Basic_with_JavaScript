@@ -105,4 +105,7 @@
 //     console.log(`${key} is ${person[key]}`);
 // }
 
-
+// let people=["Harry","SaiSai","MgMg","PaingPaing","TokeToke","KoPyae"];
+// for (key in people){
+//     console.log(`${key} is ${people[key]}`);
+// }
